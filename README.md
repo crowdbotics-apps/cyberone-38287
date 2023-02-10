@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [payments]()
 - [django-signature](backend/modules)
 - [react-native-social-login](modules/social-login)
+- [react-native-login](modules/login)
 
 # Getting started: Frontend
 
