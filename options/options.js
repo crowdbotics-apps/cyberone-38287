@@ -28,7 +28,7 @@ export const globalOptions = {
 
 export const modulesOptions = {
   "@modules/app-menu": {
-    title: "BitDefender",
+    title: "Atera",
     copy: "Routes available!",
     styles: styles
   },
