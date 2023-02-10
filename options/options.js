@@ -28,7 +28,7 @@ export const globalOptions = {
 
 export const modulesOptions = {
   "@modules/app-menu": {
-    title: "Atera",
+    title: "App Title",
     copy: "Routes available!",
     styles: styles
   },
