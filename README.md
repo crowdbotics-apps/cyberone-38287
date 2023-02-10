@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-files](backend/modules)
 - [django-contact-us](backend/modules)
 - [react-native-google-analytics](modules/google-analytics)
+- [react-native-app-menu](modules/app-menu)
 
 # Getting started: Frontend
 
