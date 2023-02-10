@@ -1,1 +1,1 @@
-{ "module_options": {} }
+{"module_options": {"django-files": {"MEDIA_UPLOAD_PATH": "uploads/$client$/contracts"}}}
