@@ -35,5 +35,5 @@ django-import-export = "*"
 drf-spectacular = "~=0.25.1"
 cb-payments = {editable = true, path = "./modules/payments"}
 cb-django-signature = {editable = true, path = "./modules/django_signature"}
-cb-django-files = {editable = true, path = "./modules/django_files"}
 cb-django-contact-us = {editable = true, path = "./modules/django_contact_us"}
+cb-django-files = {editable = true, path = "./modules/django_files"}
